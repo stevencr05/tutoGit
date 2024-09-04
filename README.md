@@ -1,2 +1,2 @@
 # Tutoriel
-Ceci est un tuto regardé sur YouTube pou savoir utiliser Git & GitHub
+Ceci est un tuto regardé sur YouTube pour savoir utiliser Git & GitHub
